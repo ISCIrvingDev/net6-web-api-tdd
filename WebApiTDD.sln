@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiTDD", "WebApiTDD\WebApiTDD.csproj", "{B0E82A5B-063E-47FE-96D8-A629E6CCAE4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDrivenDesign", "TestDrivenDesign\TestDrivenDesign.csproj", "{EA4E8256-772A-4B57-AAD3-7226BB53A3BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E82A5B-063E-47FE-96D8-A629E6CCAE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E82A5B-063E-47FE-96D8-A629E6CCAE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E82A5B-063E-47FE-96D8-A629E6CCAE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E82A5B-063E-47FE-96D8-A629E6CCAE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA4E8256-772A-4B57-AAD3-7226BB53A3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4E8256-772A-4B57-AAD3-7226BB53A3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4E8256-772A-4B57-AAD3-7226BB53A3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4E8256-772A-4B57-AAD3-7226BB53A3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECEBFE65-2DEB-46BC-A0A1-67167B71C1BF}
+	EndGlobalSection
+EndGlobal
